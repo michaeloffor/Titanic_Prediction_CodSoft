@@ -6,7 +6,7 @@
 <p>The dataset used for this project is the Titanic dataset, which includes the following features:</p>
 
 <li>PassengerId: A unique identifier for each passenger</li>
-<li></li>Pclass: Passenger's ticket class (1st, 2nd, 3rd)</li>
+<li>Pclass: Passenger's ticket class (1st, 2nd, 3rd)</li>
 <li>Name: Passenger's name</li>
 <li>Sex: Gender of the passenger</li>
 <li>Age: Age of the passenger</li>
